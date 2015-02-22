@@ -19,7 +19,7 @@ kurtosis(): kurtosis of the frequency domain signal.
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.  
 angle(): Angle between to vectors.  
 
-We have different signals that we measure, which are:
+We have different signals that we measure, which are:  
 tBodyAcc-XYZ  
 tGravityAcc-XYZ  
 tBodyAccJerk-XYZ  
@@ -57,7 +57,7 @@ The tidy data is available in ```cleanedData.txt```
 
 # Experimental study design used
 
-Please see README.txt
+Please see ```README.txt```
 
 # Instruction List
 
